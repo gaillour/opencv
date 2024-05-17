@@ -1,2 +1,2 @@
 # opencv
-OpenCV projects
+OpenCV
